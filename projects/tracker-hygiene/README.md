@@ -30,6 +30,7 @@ Script: purge/qbt-purge-blocklist-v1.1.5-s-logic.ps1
 
 ## 📁 Folder Structure
 
+```
 tracker-hygiene/
 │
 ├── harvester/
@@ -42,6 +43,8 @@ tracker-hygiene/
 │   └── qbt-purge-blocklist-v1.1.5-s-logic.ps1
 │
 └── README.md
+```
+
 
 ---
 
