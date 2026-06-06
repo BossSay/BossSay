@@ -3,8 +3,8 @@
 # ==============================================================================
 
 $QBHost     = "http://127.0.0.1:8080"
-$User       = "admin"
-$Pass       = "BBQdeluxe"
+$User       = "YourWebUI_UserName"
+$Pass       = "YourWebUI_Password"
 $OutputFile = "C:\Scripts\qbt-tracker-harvest.csv"
 $StateFile  = "C:\Scripts\qbt-tracker-harvest.state"
 $Delay      = 200
