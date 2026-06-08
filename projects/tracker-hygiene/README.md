@@ -59,6 +59,8 @@ tracker-hygiene/
 3. **Run the Purge Engine**  
    Removes matching trackers from all torrents via qBittorrent’s API.
 
+Better to wait until qBittorrent fully loaded — if qBittorrent is still hydrating its torrent list on startup, the /torrents/info call may return an incomplete set and some torrents will be missed. Give it a minute or two after launch before running the purge.
+
 ---
 
 ## 🎯 Purpose
